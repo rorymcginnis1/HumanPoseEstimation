@@ -11,3 +11,8 @@ The open the riggedblended.blend from this repo.
 For most accurate results your full body must be in the camera frame.
 
 
+
+
+https://github.com/rorymcginnis1/HumanPoseEstimation/assets/121205078/e915e8f1-fcfc-4c13-a295-a007d412418f
+
+
