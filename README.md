@@ -2,7 +2,7 @@
 
 ## Description:
 
-Capture 3D modeling technologies and project captured gestures onto a virtual avatar in real time from scratch. Used Blender from 3D modeling and animations to enhance the immersive expereince.
+Capture 3D modeling technologies and project captured gestures onto a virtual avatar in real time from scratch. Used Blender from 3D modeling and animations to enhance the immersive experience.
 
 ## Tools and Frameworks
 (Python, Blender, NumPy, OpenCV, MediaPipe)
