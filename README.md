@@ -1,6 +1,13 @@
 # HumanPoseEstimation
 
-Prerequisites:
+## Description:
+
+Capture 3D modeling technologies and project captured gestures onto a virtual avatar in real time. Used Blender from 3D modeling and animations to enhance the immersive expereince.
+
+## Tools and Frameworks
+(Python, Blender, NumPy, OpenCV, MediaPipe)
+
+## Prerequisites:
 
 you must have nump cv2 mediapipe bpy and math installed for this program to run.
 
